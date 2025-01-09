@@ -7,3 +7,8 @@ https://github.com/user-attachments/assets/3b341a87-97d4-4824-8bea-e500b53b420d
 We download the reprojected data from UW SSEC's [RealEarth program](https://realearth.ssec.wisc.edu/).
 Each image is 128x128 pixels, centered at (34.1, -118.4). Each pixel is 1.0 km.
 The fires sometimes disappear from view due to cloud cover.
+
+The code combines the two satellites' data for increased resolution.
+It currently measures the areas of hotspots. 
+If I have more time I might try doing some other measurements,
+but I also wrote this to demonstrate the accessibility of citizen science.
