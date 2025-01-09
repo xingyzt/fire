@@ -11,4 +11,9 @@ The fires sometimes disappear from view due to cloud cover.
 The code combines the two satellites' data for increased resolution.
 It currently measures the areas of hotspots. 
 If I have more time I might try doing some other measurements,
-but I also wrote this to demonstrate the accessibility of citizen science.
+but I also wrote in a hurry this to demonstrate the accessibility of citizen science.
+
+If you want to play with the code online,
+one way is to import this repository onto [Google Colab](https://colab.research.google.com/).
+Change the parameters of `download.py` to import new data,
+and perform the analysis with `analysis.ipynb`.
