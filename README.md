@@ -17,3 +17,5 @@ If you want to play with the code online,
 one way is to import this repository onto [Google Colab](https://colab.research.google.com/).
 Change the parameters of `download.py` to import new data,
 and perform the analysis with `analysis.ipynb`.
+
+![graph](graph.png)
