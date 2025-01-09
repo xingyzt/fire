@@ -1,6 +1,7 @@
 
 
-https://github.com/user-attachments/assets/3b341a87-97d4-4824-8bea-e500b53b420d
+https://github.com/user-attachments/assets/d2f6ec48-869a-4712-9703-0cd7852142c1
+
 
 
 3.9 micron data from the GOES-16 East and GOES-18 West satellites on the January 2025 Southern California fires.
