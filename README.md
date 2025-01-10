@@ -13,7 +13,9 @@ You can see how quickly the fires initially grow — up to a square mile every m
 This shows the extreme difficulty of containment.
 
 The code combines the two satellites' data for increased resolution.
-It currently measures the areas of hotspots. 
+It currently measures the areas of hotspots.
+If a pixel is registered as "hot" in one frame, that is counted for the next 12 hours
+in order to balance the uncertainty under cloud cover vs. the fire actually dying out.
 If I have more time I might try doing some other measurements,
 but I also wrote in a hurry this to demonstrate the accessibility of citizen science.
 
