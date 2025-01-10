@@ -13,8 +13,8 @@ zoom = 7
 baseurl = "http://realearth.ssec.wisc.edu/api/image"
 
 # UTC
-time_start = datetime.datetime(2025, 1, 9, 17, 31, 0, 0)
-time_end = datetime.datetime(2025, 1, 10, 1, 41, 0, 0)
+time_start = datetime.datetime(2025, 1, 10, 5, 21, 0, 0)
+time_end = datetime.datetime(2025, 1, 10, 7, 1, 0, 0)
 time_step = datetime.timedelta(minutes=5)
 
 time = time_start
